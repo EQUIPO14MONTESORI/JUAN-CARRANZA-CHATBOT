@@ -70,7 +70,7 @@ header {
 .input-area {
   display: flex;
   padding: 10px;
-  background: rgba(0, 0, 0, 0,1);
+  background: rgba(0, 0, 0, 0.1);
 }
 
 #user-input {
