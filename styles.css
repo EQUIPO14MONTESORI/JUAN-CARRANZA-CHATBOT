@@ -7,10 +7,10 @@
 }
 
 body {
-  background-image: linear-gradient (90.2deg, rgba(1, 47, 95, 1)-0.4% rgba(56, 141, 217, 1) 106.1%);
+  background-image: linear-gradient(90.2deg, rgba(1, 47, 95, 1)-0.4% rgba(56, 141, 217, 1)106.1%);
   color: #333;
   display: flex;
-  justiffy-content: center;
+  justify-content: center;
   align-items: center;
   height: 100vh;
 }
